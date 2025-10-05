@@ -85,4 +85,5 @@ Build a practical tool for securing confidential PDF documents.
 
 # OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/768dd2ec-990e-4a1f-92c1-523cfcd14c42" />
 
